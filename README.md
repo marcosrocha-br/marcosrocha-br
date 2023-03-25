@@ -1,5 +1,5 @@
 # Hi there!
-##  My name is Marcos Rocha and I am building a career as a full stack software developer!
+##  My name is Marcos Rocha and I am building a career as a Full Stack Software Developer!
 
 
 <hr>
