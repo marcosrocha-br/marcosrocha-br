@@ -5,7 +5,7 @@
 <hr>
 
 ## Technologies
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,typescript,cs,angular,dotnet,sqlserver,git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,typescript,cs,angular,dotnet,git)](https://skills.thijs.gg)
 
 <hr>
 
