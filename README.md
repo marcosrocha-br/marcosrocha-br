@@ -1,16 +1,11 @@
+          
 # Hi there!
-##  My name is Marcos Rocha and I am building a career as a Full Stack Software Developer!
-
+##  My name is Marcos Rocha and I am a Full Stack Software Developer!
 
 <hr>
 
 ## Technologies
-<div>
-          <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30"/></a>
-          <a><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v5.13.0/icons/dotnet.svg" width="30"</a>
-          <a><img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg width="30"></a>
-          <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/></a>  
-</div>     
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,typescript,cs,angular,dotnet,sqlserver,git)](https://skills.thijs.gg)
 
 <hr>
 
@@ -21,10 +16,11 @@
 </div>
 
 <hr>
-
+<!--
 💬 Feel free to visit my <a href="https://github.com/marcosrocha-br?tab=repositories">repositories</a>!!!
 
 <hr>
+-->
 
 ## Contacts
 
