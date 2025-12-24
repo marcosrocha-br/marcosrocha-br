@@ -1,26 +1,32 @@
-          
-# Hi there!
-##  My name is Marcos Rocha and I am a Full Stack Developer!
+# Hi there 👋
 
-<hr>
+## I'm Marcos Rocha — Full Stack Developer (.NET & Angular)
 
+💻 Full Stack Developer with experience building web applications using **.NET (C#)**, **Angular**, and **SQL databases**.  
+☁️ Familiar with **Azure**, cloud fundamentals, and modern development practices.  
+📚 Always learning and improving code quality, architecture, and performance.
+
+---
+
+### 🚀 Tech Stack
+- **Backend:** .NET (C#), ASP.NET MVC, Web API
+- **Frontend:** Angular, TypeScript, HTML, CSS, Bootstrap
+- **Databases:** SQL Server
+- **Cloud & Tools:** Azure, Git, GitHub, CI/CD
+- **Others:** Clean Architecture, REST APIs
+
+---
+
+### 📫 Let's connect
 <div>
-          <a href="https://github.com/marcosrocha-br">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosrocha-br&layout=compact&langs_count=7&theme=dracula"/>
-          </a>
+  <a href="https://www.linkedin.com/in/marcosrocha-br/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:contato@marcosrocha.xz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
-<hr>
-<!--
-💬 Feel free to visit my <a href="https://github.com/marcosrocha-br?tab=repositories">repositories</a>!!!
+---
 
-<hr>
--->
-
-## Contacts
-
-<div>
-          <a href="https://www.linkedin.com/in/marcosrocha-br/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-          <a href = "mailto:contato@marcosrocha.br@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-          <a href = "mailto:contato@marcosrocha.xz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+⭐ Feel free to explore my repositories and projects!
